@@ -5,7 +5,7 @@ This project uses Deep Learning and Transfer Learning with ResNeSt50 to classify
 
 - Cars
 - Motorcycles
-- 
+
 ## Dataset
 
 The dataset contains vehicle images categorized into:
@@ -25,7 +25,7 @@ Key achievements:
 - Transfer Learning implementation
 - Performance evaluation
 - Deep Learning workflow using PyTorch
-- 
+  
 ## Technologies Used
 - Python
 - PyTorch
