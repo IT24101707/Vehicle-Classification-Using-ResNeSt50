@@ -26,6 +26,29 @@ Key achievements:
 - Performance evaluation
 - Deep Learning workflow using PyTorch
   
+  ## Results
+
+### Training Base Model
+![Base Model](base_model.png)
+
+### Training Tuned Model
+![Tuned Model](tuned_model.png)
+
+### Cross Validation Results
+![Cross Validation](cross_validation.png)
+
+### Training vs Validation Accuracy
+![Accuracy](accuracy_chart.png)
+
+### Training vs Validation Loss
+![Loss](loss_chart.png)
+
+### Final Model Comparison Accuracy
+![Comparison](comparison_chart.png)
+
+### Final Summary
+![Summary](summary.png)
+  
 ## Technologies Used
 - Python
 - PyTorch
